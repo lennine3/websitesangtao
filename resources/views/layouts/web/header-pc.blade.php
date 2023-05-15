@@ -4,7 +4,7 @@
             <div class="logoContain">
                 <div class="logoBox">
                     <a href="{{ route('home') }}">
-                        <img src="{{ asset('web/assets/image/logo/headerLogo.png') }}" alt="">
+                        <img src="{{ asset('web/assets/image/logo/headerLogo.jpg') }}" alt="">
                     </a>
                 </div>
             </div>

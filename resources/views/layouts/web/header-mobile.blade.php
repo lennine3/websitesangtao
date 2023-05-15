@@ -1,6 +1,6 @@
 <nav class="headerMobile" id="headerMobile">
     <div class="logoHeaderMobile">
-        <a href="#"> <img src="{{ asset('web/assets/image/logo/headerLogo.png') }}" alt=""></a>
+        <a href="#"> <img src="{{ asset('web/assets/image/logo/headerLogo.jpg') }}" alt=""></a>
     </div>
     <div>
 

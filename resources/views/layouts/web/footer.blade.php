@@ -3,7 +3,7 @@
         <div class="d-flex justify-content-between FooterLogoSection footerLogoContain">
             <div class="d-flex align-items-center">
                 <div class="footerLogo">
-                    <img src="{{ asset('web/assets/image/logo/footerLogo.png') }}" alt="">
+                    <img src="{{ asset('web/assets/image/logo/footerLogo.jpg') }}" alt="">
                 </div>
             </div>
             <div class="socialLogoMobile">
